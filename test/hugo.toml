@@ -1,0 +1,4 @@
+baseURL = 'https://AREP-BIM.org/'
+languageCode = 'en-us'
+title = 'AREP-BIM'
+theme = 'ananke'
